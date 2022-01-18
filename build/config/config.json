@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x92a88C951368be706103D155d47E91f29B34B740",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x92a88c951368be706103d155d47e91f29b34b740",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Mindless Crypto",
+  "SYMBOL": "MCNFT",
+  "MAX_SUPPLY": 250,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/mindless-crypto",
+  "SHOW_BACKGROUND": true
+}
